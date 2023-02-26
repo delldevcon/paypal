@@ -16,5 +16,5 @@ Spring
 Stories 
 YouTube
 AWS
-jerkins
-.net application
+nodejs applications
+
