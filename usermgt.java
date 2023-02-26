@@ -1,9 +1,9 @@
 Artificial Intelligence 
-Blog 
+
 Database 
 DevOps 
 Docker 
-General 
+ 
 GitHub
 Google Cloud Platform 
 Java 
